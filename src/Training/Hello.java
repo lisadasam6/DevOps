@@ -6,6 +6,10 @@ public class Hello {
 		// TODO Auto-generated method stub
 		System.out.println("This is devops training session");
 		System.out.println("I did my first project,hooray");
+		System.out.println("I am trying thi");
+		System.out.println("Life is beautiful");
+		
+		
 
 	}
 
